@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project involves training a pair of agents to play a game of tennis. The environment is provided by Unity ML-Agents.
+This project involves training a pair of agents to play tennis. Unity ML-Agents provide the environment.
 
 In this environment, two agents control rackets to bounce a ball over a net.
 - A reward of +0.1 is given if an agent hits the ball over the net.
